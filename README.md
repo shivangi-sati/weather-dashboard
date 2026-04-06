@@ -138,24 +138,3 @@ src/
  │    └── api.js
  └── App.jsx
 ```
-
----
-
-## Known Limitations
-
-- CO2 data is not provided by Open-Meteo API
-- AQI is approximated using PM2.5 values
-- Forecast API does not support past dates (handled via UI restriction)
-
----
-
-## Notes
-
-This project was built as part of a frontend assignment to demonstrate:
-
-- API integration
-- Data visualization
-- Responsive UI design
-- Clean React architecture
-
----
